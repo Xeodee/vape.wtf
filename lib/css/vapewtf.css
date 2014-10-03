@@ -1,0 +1,42 @@
+/*!
+ * Bootstrap v3.2.0 (http://getbootstrap.com)
+ * Copyright 2011-2014 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
+
+/*! normalize.css v3.0.1 | MIT License | git.io/normalize */
+
+.flavors h2{
+
+    background: lightblue;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-left: 3px solid black;
+    border-top: 3px solid black;
+    border-right: 3px solid black;
+    padding: 0 0 0 5px;
+    margin-bottom: 0px;
+
+}
+.flavors .row p:first-of-type{
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+    margin: auto;
+}
+.flavors .row img{
+    width:324px !important;
+}
+.flavors .row p:last-of-type{
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+    padding: 0 3px 0 3px;
+    margin-bottom: 0 !important;
+}
+.fBuy{
+    margin-top:0!important;
+    border: 3px solid #000000;
+    border-top:none!important;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    text-align: right;
+}

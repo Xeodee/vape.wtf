@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="ssh://vape.wtf">
+  <component name="PublishConfigData" autoUpload="On explicit save action (⌘S)" promptOnRemoteOverwrite="CHECK_TIMESTAMP" serverName="ssh://vape.wtf" autoUploadExternalChanges="true">
     <serverData>
       <paths name="ssh://vape.wtf">
         <serverdata>
@@ -10,6 +10,7 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
   </component>
 </project>
 
