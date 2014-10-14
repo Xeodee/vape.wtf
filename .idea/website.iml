@@ -6,6 +6,7 @@
       <excludeFolder url="file://$MODULE_DIR$/bootstrap/less" />
       <excludeFolder url="file://$MODULE_DIR$/bootstrap/node_modules" />
       <excludeFolder url="file://$MODULE_DIR$/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/images/product" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
